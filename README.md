@@ -1,3 +1,11 @@
+<div>
+    <a href="https://www.loom.com/share/e050b9a85c2043c8b063918fe9268668">
+      <p>Streamlit - Google Chrome - 10 February 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e050b9a85c2043c8b063918fe9268668">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e050b9a85c2043c8b063918fe9268668-236ba5bf25411f33-full-play.gif">
+    </a>
+  </div>
 # CSV Data Analysis & Visualization
 
 This application allows users to upload a CSV file, analyze its contents, and generate insightful visualizations using Plotly Express. The app is built with Streamlit and leverages an AI assistant to generate Python code for visualizations based on user queries.
